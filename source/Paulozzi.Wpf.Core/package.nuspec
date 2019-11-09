@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>Paulozzi.Wpf.Core</id>
+    <!--*-->
+    <version>1.0.0.1</version>
+    <title>Paulozzi.Wpf.Core</title>
+    <!--*-->
+    <authors>Julian Paulozzi</authors>
+    <owners>Julian Paulozzi</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>WPF utility set</description>
+    <!--*-->
+    <releaseNotes>Fix dependencies</releaseNotes>
+    <copyright>Copyright ©  2019</copyright>
+    <tags>
+    </tags>
+    <dependencies>
+      <dependency id="System.ValueTuple" version="4.5.0" />
+      <dependency id="Microsoft.Xaml.Behaviors.Wpf" version="1.0.1" />
+    </dependencies>
+  </metadata>
+</package>
